@@ -1,3 +1,7 @@
+# Geektrust Frontend Coding Challenge - Admin - UI
+
+https://user-images.githubusercontent.com/65502480/167301571-43d2e92d-edc6-42b0-b6c7-dfe8aaaef37d.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
