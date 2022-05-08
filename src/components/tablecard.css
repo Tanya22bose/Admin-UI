@@ -1,0 +1,60 @@
+td{
+    padding: 13px;
+    border-bottom:1px solid rgb(0, 0, 0, 0.2);
+}
+
+table{
+    width: 97%;
+}
+
+th{
+    border-bottom:1px solid rgb(0, 0, 0, 0.2);
+    padding: 15px;
+}
+
+.btn-2{
+    margin-left: 2px;
+    border: none;
+    background-color: transparent;
+    color: tomato;
+}
+
+.btn-1{
+    border: none;
+    background-color: transparent;
+    color: gray;
+}
+
+.searchbar{
+    border: 1px solid rgb(0, 0, 0, 0.2);
+    width: 96%;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding: 5px;
+}
+
+.pagecss{
+    margin-left: 25%;
+    padding: 10px;
+}
+
+#delete{
+    margin-right: -110px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.tableSelected {
+  background-color: lightgray;
+}
+
+input[type="checkbox"]:checked ~ td{
+    background-color: black;
+}
